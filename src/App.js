@@ -15,7 +15,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>5x5 Table Game</h1>
+      <h1>CMT Board Game</h1>
       <Table board={board} setBoard={setBoard} turn={turn} setTurn={setTurn} setLines={setLines} />
       <ResetButton resetGame={resetGame} />
       <h2>
