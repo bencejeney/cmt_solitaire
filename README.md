@@ -6,12 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
+Installs the required node modules for running the project. \
+
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+It should automatically open a new tab in a web browser window. If it does not, open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### The Game
+## The Game
 Starts with an empty 5x5 table. \
 When you click a cell its value is set to C, M or T. \
 Once a cell value is set it cannot change anymore. \
