@@ -4,17 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Note: Make sure NodeJS is installed on your computer.\
+Note: Make sure NodeJS is installed on your computer.
 
 Open a terminal in the project directory. Here you can run:
 
 ### `npm install`
 
-Installs the required node modules for running the project. \
+Installs the required node modules for running the project.
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 It should automatically open a new tab in a web browser window. If it does not, open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## The Game
