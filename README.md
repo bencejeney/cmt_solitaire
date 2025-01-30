@@ -16,7 +16,7 @@ Installs the required node modules for running the project.
 
 Runs the app in the development mode.
 It should automatically open a new tab in a web browser window. If it does not, open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-You can also run the project on [https://stackblitz.com/~/github.com/bencejeney/cmt_solitaire](StackBlitz).
+You can also run the project on this link: [https://stackblitz.com/~/github.com/bencejeney/cmt_solitaire](StackBlitz).
 
 ## The Game
 Starts with an empty 5x5 table. \
